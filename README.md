@@ -1,7 +1,8 @@
 # Tetris
  My recreation of Tetris in vanilla Javascript, HTML, and CSS.
  
- Controls (keyboard only):
+ Controls (keyboard and mouse only):
+  - Clicking the buttons once does as it shows. In order to unpause the game, click the start button
   - A or left arrow key moves the piece to the left
   - D or right arrow key moves the piece to the right
   - S or down arrow key moves the piece down
